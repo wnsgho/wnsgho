@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=수련중%20text)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Dev%20Junoverse&textBg=false&fontSize=70&fontColor=ffff&animation=twinkling&stroke=000000&strokeWidth=3&desc=Backend)
 <!--
 **wnsgho/wnsgho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
